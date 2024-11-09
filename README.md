@@ -23,6 +23,10 @@ From the top level directory.
 For local use, it is likely that only the 7B parameter LLM will be feasible.
 The 7B parameter LLM has been tested to work with 32GB of RAM and an RTX2070 GPU with 8GB VRAM.
 
+For further detail on the GPTQ quantised models used with the IA, as well as 
+instructions for installing dependencies, please see [the respective HuggingFace repositories](https://huggingface.co/TheBloke/CodeLlama-7B-Python-GPTQ). NOTE: git-lfs should be installed before attempting to
+clone these submodules.
+
 ## Running Automated experiements
 In order to run experiments automatically,
 first define an experiment in `test_runner.py` by appending to the `EXPERIMENTS` dictionary.
