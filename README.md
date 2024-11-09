@@ -5,7 +5,7 @@ An Iterative Assistant (IA) to improve the quality of AI generated code for novi
 at the University of Queensland in 2024.
 
 ## Contents
-- `Interface/`: Code for allowing the IA to make oracle requests during iteration. Contains both code to use a human user as an oracle, and a testing harness to recieve automatic feedback when the IA is run on problems presented in the extended HumanEval dataset (see: ) #TODO
+- `Interface/`: Code for allowing the IA to make oracle requests during iteration. Contains both code to use a human user as an oracle, and a testing harness to recieve automatic feedback when the IA is run on problems presented in the extended HumanEval dataset (see the assotiated [repository](https://github.com/PrismTanker/ExtendedHumanEval))
 - `Model/`: Code for CodeLLama2 LLM inference.
 - `Results/`: Folder that will contain IA output
 - `IA.py`: Python code defining the IA architecture, and providing interface to run the IA manually
