@@ -1,0 +1,15 @@
+[submodule "Model/llama2_chat_templater"]
+	path = Model/llama2_chat_templater
+	url = https://github.com/samrawal/llama2_chat_templater
+[submodule "Interface/AutoHarness/data/extended_humaneval"]
+	path = Interface/AutoHarness/data/extended_humaneval
+	url = https://github.com/PrismTanker/ExtendedHumanEval
+[submodule "Model/CodeLlama-7B-Python-GPTQ"]
+	path = Model/CodeLlama-7B-Python-GPTQ
+	url = https://huggingface.co/TheBloke/CodeLlama-7B-Python-GPTQ
+[submodule "Model/CodeLlama-13B-Python-GPTQ"]
+	path = Model/CodeLlama-13B-Python-GPTQ
+	url = https://huggingface.co/TheBloke/CodeLlama-13B-Python-GPTQ
+[submodule "Model/CodeLlama-34B-Python-GPTQ"]
+	path = Model/CodeLlama-34B-Python-GPTQ
+	url = https://huggingface.co/TheBloke/CodeLlama-34B-Python-GPTQ
