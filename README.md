@@ -1,6 +1,6 @@
 # Iterative Assistant (IA)
 
-This is the code for the IA developed for my honors thesis "Generative Program Correctness:
+This is the code for the IA developed for my honours thesis "Generative Program Correctness:
 An Iterative Assistant (IA) to improve the quality of AI generated code for novice users" completed
 at the University of Queensland in 2024.
 
